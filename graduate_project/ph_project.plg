@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\onedrive\±œ“µ…Ëº∆\graduate_project\ph_project.uvproj
+Project File Date:  04/06/2022
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling ph_project.c...
+linking...
+Program Size: data=63.0 xdata=0 code=2335
+creating hex file from "ph_project"...
+"ph_project" - 0 Error(s), 0 Warning(s).
